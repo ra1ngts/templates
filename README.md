@@ -8,7 +8,7 @@
 #### For what :
 - A practice while learning.
 
-#### Install :
+#### Installation :
 - Folder name: __template_factory__
   - Files in a folder: `application.py`, `classes.py` and `factory.py`
 - On the repository page сlick the `Code` button in the top right corner. A menu will pop up in which you need to select `Download ZIP`.
@@ -29,7 +29,7 @@
 #### For what :
 - A practice while learning.
 
-#### Install :
+#### Installation :
 - File name: __template_mono.py__
 - On the repository page сlick the `Code` button in the top right corner. A menu will pop up in which you need to select `Download ZIP`.
 - Save and extract the folder to any convenient location.
@@ -49,7 +49,7 @@
 #### For what :
 - A practice while learning.
 
-#### Install :
+#### Installation :
 - File name: __template_singleton.py__
 - On the repository page сlick the `Code` button in the top right corner. A menu will pop up in which you need to select `Download ZIP`.
 - Save and extract the folder to any convenient location.
